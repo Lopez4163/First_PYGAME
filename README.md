@@ -9,9 +9,13 @@ missles, the player must try to shoot down the other players ship.
 
 ## YELLOW SPACE SHIP CONTROLS
 UP = W
+
 DOWN = S
+
 LEFT = A
+
 RIGHT = D
+
 SHOOT MISSLE = Q
 
 ## RED SPACE SHIP CONTROLS
