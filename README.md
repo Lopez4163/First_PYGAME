@@ -1,4 +1,4 @@
-#|WELCOME TO SPACEBATTLE2066|  
+|WELCOME TO SPACEBATTLE2066|  
 ----------------------------------------------------------------------------------------
 ## HOW TO PLAY
 This is a two player game where two spaceships battle it out! With an infinite amount of 
