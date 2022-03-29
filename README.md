@@ -1,5 +1,4 @@
-WELCOME TO MY FIRST PYGAME  
-### This is a game created by me but utilizing Tech_With_Tim Youtube Tutorial and Assets.
+HEADING |WELCOME TO SPACEBATTLE2066|  
 ----------------------------------------------------------------------------------------
 ## HOW TO PLAY
 This is a two player game where two spaceships battle it out! With an infinite amount of 
