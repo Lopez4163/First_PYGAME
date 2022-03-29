@@ -1,4 +1,4 @@
-# Heading WELCOME TO MY FIRST PYGAME  
+WELCOME TO MY FIRST PYGAME  
 ### This is a game created by me but utilizing Tech_With_Tim Youtube Tutorial and Assets.
 ----------------------------------------------------------------------------------------
 ## HOW TO PLAY
